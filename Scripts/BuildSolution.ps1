@@ -1,0 +1,2 @@
+cd BusinessLogic
+dotnet build
